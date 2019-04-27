@@ -1,0 +1,52 @@
+.pug {
+  align-self: center;
+  justify-self:center;
+  border-radius: 2%;
+  margin: 1.5% 3% 3% 3%; 
+  width: 94%;
+}
+
+.pugNo {
+  margin: 1% 0 0 3%; 
+  font-size: 1.2em;
+}
+
+.pugWrapper {
+  display: inline-block;
+  border-radius: 2%;
+  margin: 2% 4% 1% 4%; 
+  align-self: center;
+  justify-self: center;
+  height: 15%;
+  width: 92%;
+  background-color: white;
+}
+
+#topButton {
+  width:100%;
+  height:100%;
+}
+
+#topButtonWrapper {
+  position: fixed;
+  background-color: grey;
+  bottom: 2%;
+  right: 1%;
+  width:25px;
+  height:25px;
+}
+
+#pug-list{
+  border-radius:5px;
+  margin: 2% 15%; 
+  display: block;
+  align-self:center;
+  justify-self:center;
+  background-color: grey;
+  border: 1px solid black;
+}
+
+body{
+  background-color: lightblue;
+}
+
